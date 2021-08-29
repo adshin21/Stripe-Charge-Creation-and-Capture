@@ -11,13 +11,13 @@ git clone https://github.com/adshin21/Stripe-Charge-Creation-and-Capture.git
 cd Stripe-Charge-Creation-and-Capture
 ```
 
-### 2. create a virtual envirnoment
+### 2. Create a virtual envirnoment
 
 ```bash
 python3 -m venv <your_envirnoment_name>
 ```
 
-### 3. activate the envirnoment
+### 3. Activate the envirnoment
 
 ```bash
 source <your_envirnoment_name>/bin/activate
