@@ -35,3 +35,7 @@ Before running make sure to put the stripe test api key inside `config.py`
 ```bash
 python3 app.py
 ```
+
+
+# Postman collection's link
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/13586117-360122d9-a6a7-4928-8bda-48055ac734bb?action=collection%2Ffork&collection-url=entityId%3D13586117-360122d9-a6a7-4928-8bda-48055ac734bb%26entityType%3Dcollection%26workspaceId%3D5a915af8-e7bf-4f7a-bc71-442d485c72fb)
